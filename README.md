@@ -92,3 +92,5 @@ for bulan in range(1, 9):
 
 print(f"Total laba adalah: {total_laba}")
 ```
+# Output Program
+
