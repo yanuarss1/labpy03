@@ -1,7 +1,11 @@
 #DWI YANUAR PRASETIA
+
 #TI.24.A.1
+
 #Program 1
+
 Import library random untuk menghasilkan angka acak from random import random
+
 #Deskripsi Program
 Program ini dibuat menggunakan bahasa python dengan fitur:
 1. Inisialisasi:
@@ -31,3 +35,4 @@ print("Selesai")
 
 ```
 # Output Program
+https://github.com/yanuarss1/labpy03.git/<img width="721" alt="latian1 py" src="https://github.com/user-attachments/assets/072b84a1-894b-4f57-910f-31af20cd143d">
