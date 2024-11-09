@@ -71,6 +71,10 @@ total_laba = 0
 print("Laba per bulan:")
 
 # Menghitung laba per bulan
+```python
+print("Laba per bulan:")
+
+# Menghitung laba per bulan
 for bulan in range(1, 9):
     if bulan == 1 or bulan == 2:
         laba = 0  # Bulan pertama dan kedua belum ada laba
@@ -87,3 +91,4 @@ for bulan in range(1, 9):
     total_laba += laba  # Menambahkan laba bulanan ke total laba
 
 print(f"Total laba adalah: {total_laba}")
+```
