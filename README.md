@@ -93,4 +93,5 @@ for bulan in range(1, 9):
 print(f"Total laba adalah: {total_laba}")
 ```
 # Output Program
+https://github.com/yanuarss1/labpy03.git<img width="755" alt="latian2 py" src="https://github.com/user-attachments/assets/8fe51bd1-9b54-4529-8ef9-4a85fa9a8796">
 
