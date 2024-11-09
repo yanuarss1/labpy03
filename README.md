@@ -64,6 +64,13 @@ print("Laba per bulan:")
 # kode progam
 Menghitung keuntungan pengusaha investasi
 # Menghitung laba per bulan
+# Modal awal
+modal_awal = 100000000
+total_laba = 0
+
+print("Laba per bulan:")
+
+# Menghitung laba per bulan
 for bulan in range(1, 9):
     if bulan == 1 or bulan == 2:
         laba = 0  # Bulan pertama dan kedua belum ada laba
